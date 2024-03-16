@@ -1,0 +1,10 @@
+
+local.properties
+gradle.properties
+
+app/src/main/java/com/relatablecode/gitplaygroundapplication/MainActivity.kt
+
+build/
+.gradle/
+.idea/
+
