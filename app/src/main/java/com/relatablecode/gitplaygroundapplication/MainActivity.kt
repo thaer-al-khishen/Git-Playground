@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //News feature
+        //New feature
         //Second feature
     }
 }
