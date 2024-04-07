@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         //News feature
         //New feature
         //Second feature
+
+        //First change to revert
     }
 }
