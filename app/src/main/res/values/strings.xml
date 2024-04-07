@@ -119,5 +119,4 @@
     <string name="website_url">https://www.example.com</string>
     <string name="version">App Version: 1.0.1</string>
     <string name="feature_second">Second Feature</string>
-    <string name="revert">Revert</string>
 </resources>
