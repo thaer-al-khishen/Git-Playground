@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //Second feature
 
         //The news feature
+        //Small change 1
     }
 }
