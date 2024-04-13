@@ -120,4 +120,5 @@
     <string name="version">App Version: 1.0.1</string>
     <string name="feature_second">Second Feature</string>
     <string name="feature_about">About Feature</string>
+    <string name="feature_master">New Master Feature</string>
 </resources>
