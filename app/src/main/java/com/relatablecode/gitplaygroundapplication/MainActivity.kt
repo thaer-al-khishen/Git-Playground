@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         //The news feature
 
         //Change from test pull
+        //Change from test rebase
     }
 }
