@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         //Second feature
 
         //The news feature
-        //Test pull change
     }
 }
